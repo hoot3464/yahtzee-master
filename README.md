@@ -1,0 +1,2 @@
+# Yahtzee
+This is my first official completed project in Python and I'm proud of it. It is the dice game Yahtzee, a game of chance. The objective is to get the highest score. This script is only tailored for one player games but it can easily be modified for two or more people. I've also added some fun statistics and generated all possible combinations of 5 dice for testing reasons and for fun. I hope you enjoy! Feel free to give some feedback if you see this and play around with it.
